@@ -1,0 +1,15 @@
+{
+  "name": "angularstrap",
+  "version": "0.0.0",
+  "description": "wordpress blog designed with angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BenHeni",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "angular": "^1.6.9",
+    "angular-route": "^1.6.9"
+  }
+}
